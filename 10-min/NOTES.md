@@ -1,0 +1,25 @@
+# gongfu.io
+
+- définition
+
+
+- rdv hebdomadaire -> temps d'étude personnel et d'expérimentation. cultiver son jardin, découvrir de nouvelles plantes, curiosité.
+
+- pourquoi j'ai rejoins Gōng-fu I/O. Olivier 
+
+
+- pour qui ? tu as déjà cette démarche mais en solo, possibilité de partager l'expérience avec ses pairs, binomage, motivation pour être régulier. 
+
+- comment: 2 heures d'études 1 x semaine, 2 minute de restitution et 1 commit.
+
+Aujourd'hui, en général on se retrouve dans un bar sympa et calme (dans le passé on s'est trouvé à l'uni, au bord de l'eau, chez un photographe, et on cherche un peu un endroit).
+
+- illustration: les projets…
+
+- nous 1 repository publique, des canaux d'annonce, une présence.
+
+- ce n'est pas, hackathon, coding dojo, game jam. pas de méthodologie imposée, domaine agnostique, technologiquement agnostique, idéalement pluri-disciplinaire (même les managers peuvent venir, pourvu qu'ils travaillent à leurs idées).
+
+- "lis les sources" (Armand Gatti)
+- "à la fin de l'envoi je touche / j'étudie, j'essaie, à la fin des 2h, commit; après on prend un verre" (Edmond Rostand / Gōng-fu I/O)
+- "c'est le petit qui est fécond." (Georges Haldas)
