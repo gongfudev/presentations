@@ -3,7 +3,7 @@
 - définition
 
 
-- rdv hebdomadaire -> temps d'étude personnel et d'expérimentation. cultiver son jardin, découvrir de nouvelles plantes, curiosité.
+- rdv hebdomadaire -> temps *d'étude personnel* et *d'expérimentation*. cultiver son jardin, découvrir de nouvelles plantes, curiosité.
 
 - pourquoi j'ai rejoins Gōng-fu I/O. Olivier 
 
@@ -20,6 +20,8 @@ Aujourd'hui, en général on se retrouve dans un bar sympa et calme (dans le pas
 
 - ce n'est pas, hackathon, coding dojo, game jam. pas de méthodologie imposée, domaine agnostique, technologiquement agnostique, idéalement pluri-disciplinaire (même les managers peuvent venir, pourvu qu'ils travaillent à leurs idées).
 
-- "lis les sources" (Armand Gatti)
+Les projets peuvent être inaboutis. C'est OK de se trouver dans la sur-ingénierie. Il s'agit d'expérimenter pour apprendre. Les égarements sont plus précieux qu'il n'y paraît. Le temps de la «performance» est un autre temps.
+
+- "lis les textes à la source" (Armand Gatti)
 - "à la fin de l'envoi je touche / j'étudie, j'essaie, à la fin des 2h, commit; après on prend un verre" (Edmond Rostand / Gōng-fu I/O)
 - "c'est le petit qui est fécond." (Georges Haldas)
