@@ -3,9 +3,9 @@
 - définition
 
 
-- rdv hebdomadaire -> temps *d'étude personnel* et *d'expérimentation*. cultiver son jardin, découvrir de nouvelles plantes, curiosité.
+- rdv hebdomadaire -> temps *d'étude personnel* et *d'expérimentation*. cultiver son jardin, découvrir de nouvelles plantes, curiosité. décloisonnement des communautés techniques.
 
-- pourquoi j'ai rejoins Gōng-fu I/O. Olivier 
+- pourquoi j'ai rejoins Gōng-fu I/O. Olivier: re-considérer mon rapport aux ordis.
 
 
 - pour qui ? tu as déjà cette démarche mais en solo, possibilité de partager l'expérience avec ses pairs, binomage, motivation pour être régulier. 
