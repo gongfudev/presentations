@@ -17,7 +17,7 @@ Aujourd'hui, en général on se retrouve dans un bar sympa et calme (dans le pas
 
 - illustration: les projets…
 
-- nous 1 repository publique, des canaux d'annonce, une présence.
+- nous: 1 repository public, des canaux d'annonce, une présence. du matériel: Leap Motion, Makey Makey, projecteur, matériel photo, etc.
 
 - ce n'est pas, hackathon, coding dojo, game jam. pas de méthodologie imposée, domaine agnostique, technologiquement agnostique, idéalement pluri-disciplinaire (même les managers peuvent venir, pourvu qu'ils travaillent à leurs idées).
 
