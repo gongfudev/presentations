@@ -103,7 +103,7 @@ body {
 
 #cultive { width: 500px }
 
-.plant_text{
+.plant_text {
     position: relative;
     top: -200px;
     z-index: -1000;
@@ -160,8 +160,18 @@ body {
     transform:         scale(1);  
 }
 
-#decoration_photo_1{
+#decoration_photo_1 {
     position: absolute; 
     -webkit-transform: translate(-50%, -50%) translate3d(800px, -1300px, 0px) scale(0.8) rotateZ(10deg);
     -webkit-transform-style: preserve-3d;
+}
+
+#06_commit_desopaquifier {
+    position: relative;
+    top: -200px; left: -400px;
+}
+
+#06_projet_etude_alambic {
+    position: relative;
+    top: -200px; left: -400px;
 }
