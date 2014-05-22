@@ -5,20 +5,33 @@
     <title>Gōng-fu I/O en 10 minutes</title>
     <meta content="gongfu, gong-fu, i/o, gongfuio, présentation, étude, logiciel, programmation" name="keywords">
     <meta content="Présentation des sessions hedbomadaires Gōng-fu I/O" name="description">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-      body { padding:50px; font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; color:#777; font-weight:300; }
-      h1, h2, h3, h4, h5, h6 { color:#222; margin: 0 0 20px; }
-      p, ul, ol, table, pre, dl { margin:0 0 20px; }
-      h1 { font-size:28px; line-height: 1.1; }
-      a { color:#39c; font-weight:400; text-decoration:none; }
-    </style>
+    <meta name="viewport" content="width=1024"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="css/presentation.css" rel="stylesheet"/>
   </head>
   <body>
-   <h1>Gōng-fu I/O en 10 minutes</h1>
-   <p>Présentation des sessions Gōng-fu I/O.</p>
-   <p>Work in progress -- merci pour votre curiosité! Revenez nous visiter sous peu.</p>
-   <p><a href="https://github.com/gongfuio/presentations/tree/gh-pages/10-min" title="Repository GitHub de la présentation">Voir les sources</a></p>
+    <div id="impress">
+      <img id="decoration_photo_1" width="900" src="images/photo_meetup.jpg"/>
+
+      <div class="step" data-x="-1000" data-y="-1500" data-scale="1">
+        <img width="900" src="images/logo_titre.png"/>
+      </div>
+
+      <div class="step" data-x="100" data-y="-1500" data-scale="1">
+        <img width="800" src="images/02_ce_nest_pas.png"/>
+      </div>
+
+      <div class="step" data-x="0" data-y="-800" data-scale="0.7">
+        <img width="800" src="images/03_simple_ancien.png"/>
+      </div>
+
+      <div id="cultive" class="step" data-x="800" data-y="-800" data-scale="1">
+        <img class="plant_anim" width="600" src="images/04_dessin_plante.png"/>
+        <img class="plant_text" width="800" src="images/04_temps_cultive.png"/>
+      </div>
+
+    </div>
+    <script src="js/impress.js"></script>
+    <script>impress().init();</script>
   </body>
 </html>
-
