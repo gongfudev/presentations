@@ -190,3 +190,4 @@ a:hover, a:focus { color: #FF9900; }
 /*  The last step is an overview. There is no content in it, so we make sure it's not visible
     because we want to be able to click on other steps. */
 #overview { display: none }
+.impress-on-overview .step { opacity: 1; cursor: pointer; }
