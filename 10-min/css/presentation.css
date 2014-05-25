@@ -186,7 +186,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #session_groupe {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(2200px, -400px, 0px) scale(0.2) rotateZ(10deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(1900px, 400px, 0px) scale(0.2) rotateZ(10deg);
     -webkit-transform-style: preserve-3d;
 }
 
