@@ -172,6 +172,12 @@ a:hover, a:focus { color: #FF9900; }
 }
 
 /* illustrations */
+.photo_shadow {
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.18);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.18);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.18);
+}
+
 #session_table {
     position: absolute; 
     -webkit-transform: translate(-50%, -50%) translate3d(800px, -1300px, 0px) scale(0.8) rotateZ(10deg);
