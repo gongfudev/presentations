@@ -190,6 +190,12 @@ a:hover, a:focus { color: #FF9900; }
     -webkit-transform-style: preserve-3d;
 }
 
+#session_exquis {
+    position: absolute; 
+    -webkit-transform: translate(-50%, -50%) translate3d(600px, 1200px, 0px) scale(0.5) rotateZ(100deg);
+    -webkit-transform-style: preserve-3d;
+}
+
 #commit_desopaquifier {
     position: relative;
     top: 160px; left: -200px;
