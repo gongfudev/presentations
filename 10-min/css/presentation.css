@@ -177,14 +177,14 @@ a:hover, a:focus { color: #FF9900; }
     -webkit-transform-style: preserve-3d;
 }
 
-#06_commit_desopaquifier {
+#commit_desopaquifier {
     position: relative;
-    top: -200px; left: -400px;
+    top: 160px; left: -200px;
 }
 
-#06_projet_etude_alambic {
+#projet_etude_alambic {
     position: relative;
-    top: -200px; left: -400px;
+    top: -200px; left: -50px;
 }
 
 /*  The last step is an overview. There is no content in it, so we make sure it's not visible
