@@ -196,6 +196,12 @@ a:hover, a:focus { color: #FF9900; }
     -webkit-transform-style: preserve-3d;
 }
 
+#session_triangle {
+    position: absolute; 
+    -webkit-transform: translate(-50%, -50%) translate3d(1800px, -1200px, 0px) scale(0.6) rotateZ(85deg);
+    -webkit-transform-style: preserve-3d;
+}
+
 #commit_desopaquifier {
     position: relative;
     top: 160px; left: -200px;
