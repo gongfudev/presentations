@@ -184,7 +184,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #session_touch_osc {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(1340px, 340px, 0px) scale(0.2) rotateZ(4deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(1895px, 420px, 0px) scale(0.17) rotateZ(4deg);
     -webkit-transform-style: preserve-3d;
 }
 
@@ -208,7 +208,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #commit_desopaquifier {
     position: relative;
-    top: 60px; left: -200px;
+    top: -200px; left: -380px;
 }
 
 #projet_etude_alambic {
