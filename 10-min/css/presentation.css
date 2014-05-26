@@ -176,15 +176,21 @@ a:hover, a:focus { color: #FF9900; }
     -webkit-transform-style: preserve-3d;
 }
 
+#session_mockup {
+    position: absolute; 
+    -webkit-transform: translate(-50%, -50%) translate3d(2420px, 0px, 0px) scale(0.24) rotateZ(-7deg);
+    -webkit-transform-style: preserve-3d;
+}
+
 #session_touch_osc {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(1400px, 400px, 0px) scale(0.2) rotateZ(-7deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(1340px, 340px, 0px) scale(0.2) rotateZ(4deg);
     -webkit-transform-style: preserve-3d;
 }
 
 #session_triangles_prod {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(780px, -300px, 0px) scale(0.25) rotateZ(-7deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(780px, -300px, 0px) scale(0.25) rotateZ(-4deg);
     -webkit-transform-style: preserve-3d;
 }
 
