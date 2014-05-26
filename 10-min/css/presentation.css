@@ -180,7 +180,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #session_table {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(800px, -1300px, 0px) scale(0.8) rotateZ(10deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(600px, -1700px, 0px) scale(0.8) rotateZ(10deg);
     -webkit-transform-style: preserve-3d;
 }
 
