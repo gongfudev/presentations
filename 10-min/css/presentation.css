@@ -215,7 +215,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #projet_etude_alambic {
     position: relative;
-    top: -200px; left: -50px;
+    top: -60px; left: -370px;
 }
 
 /*  The last step is an overview. There is no content in it, so we make sure it's not visible
