@@ -133,8 +133,8 @@ a:hover, a:focus { color: #FF9900; }
     transition:         1s;
 
     position: relative;
-    top: 110px;
-    left: -200px;
+    top: 130px;
+    left: -65px;
 
     -webkit-transform: scale(0);
     -moz-transform:    scale(0);
