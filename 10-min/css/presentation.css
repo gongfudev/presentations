@@ -206,6 +206,12 @@ a:hover, a:focus { color: #FF9900; }
     -webkit-transform-style: preserve-3d;
 }
 
+#session_video {
+    position: absolute; 
+    -webkit-transform: translate(-50%, -50%) translate3d(400px, -440px, 20px) scale(0.4) rotateZ(98deg);
+    -webkit-transform-style: preserve-3d;
+}
+
 #commit_desopaquifier {
     position: relative;
     top: -200px; left: -380px;
