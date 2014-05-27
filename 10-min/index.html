@@ -23,7 +23,9 @@
       <img id="session_groupe" class="photo_shadow" width="900" src="images/session_andreas_enrique_olivier.jpg"/>
 
       <!-- illustration video -->
-      <!-- <iframe id="session_video" src="http://player.vimeo.com/video/91696987?autoplay=1&amp;loop=1" width="745" height="500" frameborder="0"></iframe> -->
+      <video id="session_video" autoplay loop>
+        <source src="images/video_gfio.mp4" type="video/mp4">
+      </video>
 
       <!-- illustration processing js -->
       <!-- <canvas id="session_p5js" width="800" height="600" data-processing-sources="p5js/sketch_triangle_production.pde p5js/Scenarios.pde"></canvas> -->
@@ -121,9 +123,14 @@
 
       <p>Mise en forme avec <a href="https://github.com/bartaz/impress.js">Impress.js</a> de <strong>Bartek Szopka</strong></p>
     </div>
+    
     <script src="js/impress.js"></script>
     <script src="js/processing.min.js"></script>
-  
-    <script>impress().init();</script>
+    <script>
+      impress().init();
+      var v = document.querySelector('video');
+      v.loop = true;
+      v.play();
+    </script>
   </body>
 </html>
