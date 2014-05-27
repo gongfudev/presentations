@@ -33,7 +33,7 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 body {
-    line-height: 1;
+    line-height: 1; 
 }
 ol, ul {
     list-style: none;
@@ -91,6 +91,7 @@ body {
     min-height: 740px;
 
     background: rgb(0, 0, 0);
+    color: #EEE;
 }
 
 p { line-height: 1.1em; padding-bottom: 1em;}
