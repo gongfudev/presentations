@@ -204,7 +204,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #session_video {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(400px, -440px, 20px) scale(0.4) rotateZ(98deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(-1400px, 1000px, -15px) scale(1) rotateZ(110deg);
     -webkit-transform-style: preserve-3d;
 }
 
