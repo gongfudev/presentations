@@ -235,6 +235,10 @@ a:hover, a:focus { color: #FF9900; }
     top: -410px; left: 300px;
 }
 
+#step-09 {
+    width: 600px;
+}
+
 #credits {
     width: 150px; position: relative;
     top: -2em; left: 30px;
