@@ -186,7 +186,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #session_triangles_prod {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(980px, -350px, 0px) scale(0.25) rotateZ(-4deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(1140px, -350px, 0px) scale(0.25) rotateZ(-4deg);
     -webkit-transform-style: preserve-3d;
 }
 
@@ -210,7 +210,7 @@ a:hover, a:focus { color: #FF9900; }
 
 #session_p5js {
     position: absolute; 
-    -webkit-transform: translate(-50%, -50%) translate3d(800px, -440px, 20px) scale(0.4) rotateZ(90deg);
+    -webkit-transform: translate(-50%, -50%) translate3d(900px, -350px, 0px) scale(0.26) rotateZ(-4deg);
     -webkit-transform-style: preserve-3d;
 }
 
