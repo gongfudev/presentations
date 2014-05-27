@@ -139,23 +139,23 @@
     <script src="js/processing.min.js"></script>
     <script>
       impress().init();
-      var v = document.querySelector('video');
+
+      var v = document.querySelector( 'video');
       v.loop = true;
       v.play();
-    </script>
-    <script>
-      var fullscreenDiv = document.querySelector('div#fullscreen'),
-          fullscreenBtn = document.querySelector('div#fullscreen button'),
+
+      var fsDiv = document.querySelector( 'div#fullscreen'),
+          fsBtn = fsDiv.querySelector( 'button'),
           docEl = document.documentElement;
-      fullscreenBtn.onclick = function() {
-          if (docEl.requestFullscreen) {
+      fsBtn.onclick = function() {
+          if( docEl.requestFullscreen) {
             docEl.requestFullscreen
-          } else if (docEl.mozRequestFullScreen) {
+          } else if( docEl.mozRequestFullScreen) {
             docEl.mozRequestFullScreen();
-          } else if (docEl.webkitRequestFullscreen) {
+          } else if( docEl.webkitRequestFullscreen) {
             docEl.webkitRequestFullscreen();
           }
-          document.body.removeChild( fullscreenDiv);
+          document.body.removeChild( fsDiv);
         };
     </script>
   </body>

@@ -257,7 +257,8 @@ a:hover, a:focus { color: #FF9900; }
 }
 
 #fullscreen button {
-    padding: 1em;
-    background: #000; color: #fff;
+    padding: 1em; font-size: 1em; cursor: pointer;
+    background: transparent; color: #999;
+    border-style: dashed; border-radius: 2em; border-color: #888;
 }
 
