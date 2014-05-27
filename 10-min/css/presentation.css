@@ -90,13 +90,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     min-height: 740px;
 
-    background: rgb(215, 215, 215);
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
-    background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background: rgb(0, 0, 0);
 }
 
 b, strong { font-weight: bold }
@@ -203,6 +197,12 @@ a:hover, a:focus { color: #FF9900; }
 #session_groupe {
     position: absolute; 
     -webkit-transform: translate(-50%, -50%) translate3d(200px, -240px, 10px) scale(0.4) rotateZ(98deg);
+    -webkit-transform-style: preserve-3d;
+}
+
+#fond {
+    position: absolute; 
+    -webkit-transform: translate(-50%, -50%) translate3d(0px, 0px, -20px) scale(20) rotateZ(0deg);
     -webkit-transform-style: preserve-3d;
 }
 
