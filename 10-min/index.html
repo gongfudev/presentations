@@ -11,6 +11,9 @@
     <link href="css/presentation.css" rel="stylesheet"/>
   </head>
   <body>
+    <div id="fullscreen">
+      <button>Go to fullscreen</button>
+    </div>
     <div id="impress">
       <!-- illustration photographique -->
       <img id="session_table" class="photo_shadow" width="900" src="images/session_table.jpg"/>
@@ -139,6 +142,21 @@
       var v = document.querySelector('video');
       v.loop = true;
       v.play();
+    </script>
+    <script>
+      var fullscreenDiv = document.querySelector('div#fullscreen'),
+          fullscreenBtn = document.querySelector('div#fullscreen button'),
+          docEl = document.documentElement;
+      fullscreenBtn.onclick = function() {
+          if (docEl.requestFullscreen) {
+            docEl.requestFullscreen
+          } else if (docEl.mozRequestFullScreen) {
+            docEl.mozRequestFullScreen();
+          } else if (docEl.webkitRequestFullscreen) {
+            docEl.webkitRequestFullscreen();
+          }
+          document.body.removeChild( fullscreenDiv);
+        };
     </script>
   </body>
 </html>

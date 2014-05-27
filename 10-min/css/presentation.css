@@ -248,3 +248,14 @@ a:hover, a:focus { color: #FF9900; }
     because we want to be able to click on other steps. */
 #overview { display: none }
 .impress-on-overview .step { opacity: 1; cursor: pointer; }
+
+/* Fullscreen button */
+#fullscreen {
+    position: fixed; bottom: 40px; left: 40px; ;
+}
+
+#fullscreen button {
+    padding: 1em;
+    background: #000; color: #fff;
+}
+
