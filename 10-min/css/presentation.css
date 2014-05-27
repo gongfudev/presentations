@@ -239,6 +239,8 @@ a:hover, a:focus { color: #FF9900; }
     width: 600px;
 }
 
+.impress-on-step-08 #step-08b.step { opacity: 1; }
+
 #credits {
     width: 150px; position: relative;
     top: -2em; left: 30px;
